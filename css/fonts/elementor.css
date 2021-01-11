@@ -1,0 +1,9 @@
+@import 'iranyekan.css';
+#elementor-panel-content-wrapper .elementor-panel-category-title,
+#elementor-panel-content-wrapper .elementor-element .elementor-element-title-wrapper .title
+{
+    font-family: iranyekan;
+}
+#elementor-notice-bar{
+	display: none !important;
+}

@@ -1,0 +1,13 @@
+.preload_widget_section
+{
+    padding: 20px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.mw_elem_empty_box
+{
+    text-align: center;
+    padding: 20px 0;
+}
